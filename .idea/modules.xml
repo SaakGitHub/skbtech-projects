@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/example01-springbean/example01-springbean.iml" filepath="$PROJECT_DIR$/example01-springbean/example01-springbean.iml" />
+      <module fileurl="file://$PROJECT_DIR$/example02-NoUniqueBeanDefExceptin/example02-NoUniqueBeanDefExceptin.iml" filepath="$PROJECT_DIR$/example02-NoUniqueBeanDefExceptin/example02-NoUniqueBeanDefExceptin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/example03-CustomeBeanName/example03-CustomeBeanName.iml" filepath="$PROJECT_DIR$/example03-CustomeBeanName/example03-CustomeBeanName.iml" />
+      <module fileurl="file://$PROJECT_DIR$/example04-PrimaryAnnotation/example04-PrimaryAnnotation.iml" filepath="$PROJECT_DIR$/example04-PrimaryAnnotation/example04-PrimaryAnnotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/skbtech-projects.iml" filepath="$PROJECT_DIR$/.idea/skbtech-projects.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/example01-springbean/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/example01-springbean/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/example02-NoUniqueBeanDefExceptin/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/example02-NoUniqueBeanDefExceptin/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/example03-CustomeBeanName/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/example03-CustomeBeanName/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/example04-PrimaryAnnotation/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/example04-PrimaryAnnotation/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

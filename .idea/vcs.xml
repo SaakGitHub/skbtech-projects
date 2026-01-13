@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/example01-springbean" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/example02-NoUniqueBeanDefExceptin" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/example03-CustomeBeanName" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/example04-PrimaryAnnotation" vcs="Git" />
+  </component>
+</project>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="example04-PrimaryAnnotation" />
+        <module name="example03-CustomeBeanName" />
+        <module name="example02-NoUniqueBeanDefExceptin" />
+        <module name="example01-springbean" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="example01-springbean" target="17" />
+      <module name="example02-NoUniqueBeanDefExceptin" target="17" />
+      <module name="example03-CustomeBeanName" target="17" />
+      <module name="example04-PrimaryAnnotation" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
