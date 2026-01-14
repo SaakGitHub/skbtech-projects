@@ -9,6 +9,7 @@
         <module name="example04-PrimaryAnnotation" />
         <module name="example03-CustomeBeanName" />
         <module name="example02-NoUniqueBeanDefExceptin" />
+        <module name="example05-ComponentAnnotation" />
         <module name="example01-springbean" />
       </profile>
     </annotationProcessing>
@@ -17,6 +18,7 @@
       <module name="example02-NoUniqueBeanDefExceptin" target="17" />
       <module name="example03-CustomeBeanName" target="17" />
       <module name="example04-PrimaryAnnotation" target="17" />
+      <module name="example05-ComponentAnnotation" target="17" />
     </bytecodeTargetLevel>
   </component>
 </project>

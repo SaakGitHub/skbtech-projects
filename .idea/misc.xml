@@ -7,6 +7,7 @@
         <option value="$PROJECT_DIR$/example03-CustomeBeanName/pom.xml" />
         <option value="$PROJECT_DIR$/example04-PrimaryAnnotation/pom.xml" />
         <option value="$PROJECT_DIR$/example02-NoUniqueBeanDefExceptin/pom.xml" />
+        <option value="$PROJECT_DIR$/example05-ComponentAnnotation/pom.xml" />
       </list>
     </option>
   </component>
