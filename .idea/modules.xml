@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/example03-CustomeBeanName/example03-CustomeBeanName.iml" filepath="$PROJECT_DIR$/example03-CustomeBeanName/example03-CustomeBeanName.iml" />
       <module fileurl="file://$PROJECT_DIR$/example04-PrimaryAnnotation/example04-PrimaryAnnotation.iml" filepath="$PROJECT_DIR$/example04-PrimaryAnnotation/example04-PrimaryAnnotation.iml" />
       <module fileurl="file://$PROJECT_DIR$/example05-ComponentAnnotation/example05-ComponentAnnotation.iml" filepath="$PROJECT_DIR$/example05-ComponentAnnotation/example05-ComponentAnnotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/example06-PostConstructAnnotation/example06-PostConstructAnnotation.iml" filepath="$PROJECT_DIR$/example06-PostConstructAnnotation/example06-PostConstructAnnotation.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/skbtech-projects.iml" filepath="$PROJECT_DIR$/.idea/skbtech-projects.iml" />
     </modules>
   </component>
