@@ -9,6 +9,7 @@
         <option value="$PROJECT_DIR$/example02-NoUniqueBeanDefExceptin/pom.xml" />
         <option value="$PROJECT_DIR$/example05-ComponentAnnotation/pom.xml" />
         <option value="$PROJECT_DIR$/example06-PostConstructAnnotation/pom.xml" />
+        <option value="$PROJECT_DIR$/example07-PreDestroyAnnotation/pom.xml" />
       </list>
     </option>
   </component>

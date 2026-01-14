@@ -7,10 +7,11 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="example04-PrimaryAnnotation" />
-        <module name="example03-CustomeBeanName" />
         <module name="example02-NoUniqueBeanDefExceptin" />
-        <module name="example05-ComponentAnnotation" />
         <module name="example01-springbean" />
+        <module name="example03-CustomeBeanName" />
+        <module name="example05-ComponentAnnotation" />
+        <module name="example07-PreDestroyAnnotation" />
         <module name="example06-PostConstructAnnotation" />
       </profile>
     </annotationProcessing>
@@ -21,6 +22,7 @@
       <module name="example04-PrimaryAnnotation" target="17" />
       <module name="example05-ComponentAnnotation" target="17" />
       <module name="example06-PostConstructAnnotation" target="17" />
+      <module name="example07-PreDestroyAnnotation" target="17" />
     </bytecodeTargetLevel>
   </component>
 </project>
