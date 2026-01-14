@@ -13,6 +13,8 @@
     <file url="file://$PROJECT_DIR$/example05-ComponentAnnotation/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/example06-PostConstructAnnotation/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/example06-PostConstructAnnotation/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/example07-AddingBeanProgrammatically/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/example07-AddingBeanProgrammatically/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/example07-PreDestroyAnnotation/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/example07-PreDestroyAnnotation/src/main/resources" charset="UTF-8" />
   </component>
