@@ -7,7 +7,7 @@ import org.springframework.context.annotation.AnnotationConfigApplicationContext
 import java.util.Random;
 import java.util.function.Supplier;
 
-public class Example07 {
+public class Example08 {
 
     public static void main(String[] args) {
 
