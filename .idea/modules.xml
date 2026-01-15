@@ -8,8 +8,9 @@
       <module fileurl="file://$PROJECT_DIR$/example04-PrimaryAnnotation/example04-PrimaryAnnotation.iml" filepath="$PROJECT_DIR$/example04-PrimaryAnnotation/example04-PrimaryAnnotation.iml" />
       <module fileurl="file://$PROJECT_DIR$/example05-ComponentAnnotation/example05-ComponentAnnotation.iml" filepath="$PROJECT_DIR$/example05-ComponentAnnotation/example05-ComponentAnnotation.iml" />
       <module fileurl="file://$PROJECT_DIR$/example06-PostConstructAnnotation/example06-PostConstructAnnotation.iml" filepath="$PROJECT_DIR$/example06-PostConstructAnnotation/example06-PostConstructAnnotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/example08-AddingBeanProgrammatically/example07-AddingBeanProgrammatically.iml" filepath="$PROJECT_DIR$/example08-AddingBeanProgrammatically/example07-AddingBeanProgrammatically.iml" />
+      <module fileurl="file://$PROJECT_DIR$/example09-WiringUsingMethodCall/example07-AddingBeanProgrammatically (1).iml" filepath="$PROJECT_DIR$/example09-WiringUsingMethodCall/example07-AddingBeanProgrammatically (1).iml" />
       <module fileurl="file://$PROJECT_DIR$/example07-PreDestroyAnnotation/example07-PreDestroyAnnotation.iml" filepath="$PROJECT_DIR$/example07-PreDestroyAnnotation/example07-PreDestroyAnnotation.iml" />
-      <module fileurl="file://$PROJECT_DIR$/example07-AddingBeanProgrammatically/example07-PreDestroyAnnotation (1).iml" filepath="$PROJECT_DIR$/example07-AddingBeanProgrammatically/example07-PreDestroyAnnotation (1).iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/skbtech-projects.iml" filepath="$PROJECT_DIR$/.idea/skbtech-projects.iml" />
     </modules>
   </component>

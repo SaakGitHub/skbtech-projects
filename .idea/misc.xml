@@ -11,6 +11,8 @@
         <option value="$PROJECT_DIR$/example06-PostConstructAnnotation/pom.xml" />
         <option value="$PROJECT_DIR$/example07-PreDestroyAnnotation/pom.xml" />
         <option value="$PROJECT_DIR$/example07-AddingBeanProgrammatically/pom.xml" />
+        <option value="$PROJECT_DIR$/example08-AddingBeanProgrammatically/pom.xml" />
+        <option value="$PROJECT_DIR$/example09-WiringUsingMethodCall/pom.xml" />
       </list>
     </option>
   </component>

@@ -17,5 +17,9 @@
     <file url="file://$PROJECT_DIR$/example07-AddingBeanProgrammatically/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/example07-PreDestroyAnnotation/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/example07-PreDestroyAnnotation/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/example08-AddingBeanProgrammatically/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/example08-AddingBeanProgrammatically/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/example09-WiringUsingMethodCall/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/example09-WiringUsingMethodCall/src/main/resources" charset="UTF-8" />
   </component>
 </project>
