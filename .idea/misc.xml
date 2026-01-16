@@ -13,6 +13,9 @@
         <option value="$PROJECT_DIR$/example07-AddingBeanProgrammatically/pom.xml" />
         <option value="$PROJECT_DIR$/example08-AddingBeanProgrammatically/pom.xml" />
         <option value="$PROJECT_DIR$/example09-WiringUsingMethodCall/pom.xml" />
+        <option value="$PROJECT_DIR$/example10-WiringUsingMethodParameter/pom.xml" />
+        <option value="$PROJECT_DIR$/example10-WiringBeanUsingMethodParameter/pom.xml" />
+        <option value="$PROJECT_DIR$/example11-WiringBeanUsing@AutowireOnClassFeild/pom.xml" />
       </list>
     </option>
   </component>
