@@ -5,18 +5,23 @@ import org.springframework.stereotype.Component;
 
 @Component
 public class Person {
-    public Person() {
+
+    @Autowired
+    public Person(Vehicle vehicle) {
         System.out.println("Person Bean has bean created by SpringContext");
+        this.vehicle=vehicle;
     }
 
     private String name = "polard";
 
-    @Autowired
+    // Autowired using field of a class
+    //@Autowired
     private Vehicle vehicle;
 
     public String getName() {
         return name;
     }
+
 
     public void setName(String name) {
         this.name = name;
@@ -26,6 +31,8 @@ public class Person {
         return vehicle;
     }
 
+    //Autowired using setter method
+   // @Autowired
     public void setVehicle(Vehicle vehicle) {
         this.vehicle = vehicle;
     }
