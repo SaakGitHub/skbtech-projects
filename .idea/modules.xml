@@ -13,6 +13,8 @@
       <module fileurl="file://$PROJECT_DIR$/example09-WiringUsingMethodCall/example09-WiringUsingMethodCall.iml" filepath="$PROJECT_DIR$/example09-WiringUsingMethodCall/example09-WiringUsingMethodCall.iml" />
       <module fileurl="file://$PROJECT_DIR$/example10-WiringBeanUsingMethodParameter/example10-WiringBeanUsingMethodParameter.iml" filepath="$PROJECT_DIR$/example10-WiringBeanUsingMethodParameter/example10-WiringBeanUsingMethodParameter.iml" />
       <module fileurl="file://$PROJECT_DIR$/example11-WiringBeanUsing@AutowireOnClassFeild/example11-WiringBeanUsing@AutowireOnClassFeild.iml" filepath="$PROJECT_DIR$/example11-WiringBeanUsing@AutowireOnClassFeild/example11-WiringBeanUsing@AutowireOnClassFeild.iml" />
+      <module fileurl="file://$PROJECT_DIR$/example12-AutoWiringUsingMultipleBean/example12-AutoWiringUsingMultipleBean.iml" filepath="$PROJECT_DIR$/example12-AutoWiringUsingMultipleBean/example12-AutoWiringUsingMultipleBean.iml" />
+      <module fileurl="file://$PROJECT_DIR$/example13-Assignment/example13-Assignment.iml" filepath="$PROJECT_DIR$/example13-Assignment/example13-Assignment.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/skbtech-projects.iml" filepath="$PROJECT_DIR$/.idea/skbtech-projects.iml" />
     </modules>
   </component>

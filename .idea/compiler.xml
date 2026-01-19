@@ -9,14 +9,16 @@
         <module name="example04-PrimaryAnnotation" />
         <module name="example02-NoUniqueBeanDefExceptin" />
         <module name="example10-WiringBeanUsingMethodParameter" />
+        <module name="example05-ComponentAnnotation" />
+        <module name="example12-AutoWiringUsingMultipleBean" />
+        <module name="example08-AddingBeanProgrammatically" />
+        <module name="example11-WiringBeanUsing@AutowireOnClassFeild" />
+        <module name="example13-Assignment" />
         <module name="example01-springbean" />
         <module name="example09-WiringUsingMethodCall" />
         <module name="example03-CustomeBeanName" />
-        <module name="example05-ComponentAnnotation" />
         <module name="example07-PreDestroyAnnotation" />
         <module name="example06-PostConstructAnnotation" />
-        <module name="example08-AddingBeanProgrammatically" />
-        <module name="example11-WiringBeanUsing@AutowireOnClassFeild" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -32,6 +34,8 @@
       <module name="example09-WiringUsingMethodCall" target="17" />
       <module name="example10-WiringBeanUsingMethodParameter" target="17" />
       <module name="example11-WiringBeanUsing@AutowireOnClassFeild" target="17" />
+      <module name="example12-AutoWiringUsingMultipleBean" target="17" />
+      <module name="example13-Assignment" target="17" />
     </bytecodeTargetLevel>
   </component>
 </project>

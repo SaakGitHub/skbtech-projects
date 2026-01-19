@@ -25,5 +25,9 @@
     <file url="file://$PROJECT_DIR$/example10-WiringBeanUsingMethodParameter/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/example11-WiringBeanUsing@AutowireOnClassFeild/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/example11-WiringBeanUsing@AutowireOnClassFeild/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/example12-AutoWiringUsingMultipleBean/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/example12-AutoWiringUsingMultipleBean/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/example13-Assignment/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/example13-Assignment/src/main/resources" charset="UTF-8" />
   </component>
 </project>

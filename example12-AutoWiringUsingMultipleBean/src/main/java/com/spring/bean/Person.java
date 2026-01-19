@@ -7,17 +7,19 @@ import org.springframework.stereotype.Component;
 @Component
 public class Person {
 
-    @Autowired
-    public Person(Vehicle vehicle) {
-        System.out.println("Person Bean has bean created by SpringContext");
-        this.vehicle=vehicle;
-    }
-
-    private String name = "polard";
+    private String name = "Smith";
 
     // Autowired using field of a class
     //@Autowired
     private Vehicle vehicle;
+
+    //@Autowired
+    public Person( Vehicle vehicle) {
+        System.out.println("Person Bean has bean created by SpringContext");
+        this.vehicle=vehicle;
+    }
+
+
 
     public String getName() {
         return name;

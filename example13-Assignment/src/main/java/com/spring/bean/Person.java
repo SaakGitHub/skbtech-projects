@@ -4,7 +4,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.stereotype.Component;
 
-@Component
+@Component(value = "personBean")
 public class Person {
 
     @Autowired
@@ -13,11 +13,9 @@ public class Person {
         this.vehicle=vehicle;
     }
 
-    private String name = "polard";
+    private String name = "Ashok";
 
-    // Autowired using field of a class
-    //@Autowired
-    private Vehicle vehicle;
+    private final Vehicle vehicle;
 
     public String getName() {
         return name;
@@ -34,10 +32,10 @@ public class Person {
 
     //Autowired using setter method
    // @Autowired
-    public void setVehicle(Vehicle vehicle) {
+   /* public void setVehicle(Vehicle vehicle) {
         this.vehicle = vehicle;
-    }
-
+    } ------------>> when we make the feild final then we can't take setter mothod becouse of the final method we are not able to assign value to it.'
+    */
     @Override
     public String toString() {
         return "Person{" +
